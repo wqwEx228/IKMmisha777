@@ -1,0 +1,3 @@
+C:/Users/abaku/CLionProjects/IKMmisha/cmake-build-debug/CMakeFiles/IKMmisha.dir
+C:/Users/abaku/CLionProjects/IKMmisha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abaku/CLionProjects/IKMmisha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
